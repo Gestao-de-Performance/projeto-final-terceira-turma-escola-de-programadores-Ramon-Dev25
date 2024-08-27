@@ -723,6 +723,10 @@ input[type="number"]::-webkit-inner-spin-button {
         font-size: 2.2rem;
     }
 
+    .contact {
+        min-height: 50vh;
+    }
+
     .contact p {
         padding: 0 7rem 0 7rem;
     }
